@@ -39,7 +39,6 @@ This application is a **Music Recommender System** built using **Streamlit** and
     pip install -r requirements.txt
     ```
 
-    ```
 
 4. **Prepare the Data**
 
